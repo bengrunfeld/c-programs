@@ -24,27 +24,3 @@ main() {
 
 	}
 }
-
-
-
-/*
-	while((c = getchar()) != '?') {
-		if (c == ' ') {
-			count++;
-		}
-		if (count > 1) {
-			;
-		} else {
-			putchar(c);
-		}
-	}
-
-	printf("%d\n", count);
-
-}
-
-
-/*
-
-		
-*/
