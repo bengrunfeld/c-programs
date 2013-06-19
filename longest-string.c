@@ -1,6 +1,9 @@
 /*
 	Program Description:
 	Accept a series of lines, then print the longest.
+	Note that i is set to 2. To get to the true last character in the array, you need to 
+	go 2 places back – the new line character that triggers the next loop, and the end of array
+	character. Only then can you get to the character that terminates the program.
 */
 
 #include <stdio.h>
