@@ -41,7 +41,7 @@ main() {
 			input[i] = singleChar;
 			i++;
 		}
-				
+		
 		//Check if user wants to quit
 		if ((input[i-2]) != '*') {
 
