@@ -7,7 +7,7 @@
 
 main() {
 
-	int i, j;
+	int i;
 	char *point[5], *tmp;
 
 	point[0] = "The moon is blue toinght.";
