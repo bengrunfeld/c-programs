@@ -1,9 +1,6 @@
 /*
 	Program Desciption:
 	Alphabetically sort a set of strings using pointers
-	Problems I'm having with arrays of pointers:
-		a. how to loop through the array and use each value
-		b. comparing one value to another
 */
 
 #include <stdio.h>
