@@ -1,6 +1,6 @@
 /*
 	Program Description:
-	Illustratest the use of Structures with Functions
+	Illustratest the use of Functions with Structures as Pointers
 */
 
 #include <stdio.h>
